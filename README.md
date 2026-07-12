@@ -73,7 +73,7 @@ I'm passionate about building scalable web applications, solving real-world prob
 
 # 🚀 Featured Projects
 
-## 🚀 LeadZen CRM
+## 🚀 LeadFlow
 
 A modern MERN-based CRM platform for managing leads, customer interactions, authentication, and analytics.
 
